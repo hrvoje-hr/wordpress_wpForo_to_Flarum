@@ -1,7 +1,7 @@
 # wordpress_wpForo_to_Flarum
 Migration Script from Wordpress wpForo to Flarum
 
-Discussion https://discuss.flarum.org/d/1117-phpbb-migrate-script-updated-for-0-3-and-other-improvements
+Discussion where you can ask for help: https://discuss.flarum.org/d/22127-migration-script-from-wordpress-wpforo-to-flarum
 
 The Script performs a DB -> DB migration of Wordpress users, wpForo posts, wpForo topics and wpForo forums which are transformed into the Flarum tags. It WILL NOT COPY PASSWORDS! Users will be required to reset their passwords.
 
