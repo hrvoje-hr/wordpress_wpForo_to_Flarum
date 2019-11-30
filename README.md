@@ -1,5 +1,5 @@
 # wordpress_wpForo_to_Flarum
-Migration Script from Wordpress wpForo to Flarum
+Migration Script from Wordpress wpForo to Flarum. Tested with Flarum 0.1.0-beta.11
 
 Discussion where you can ask for help: https://discuss.flarum.org/d/22127-migration-script-from-wordpress-wpforo-to-flarum
 
