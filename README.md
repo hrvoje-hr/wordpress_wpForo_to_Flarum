@@ -16,7 +16,7 @@ The Script performs a DB -> DB migration of Wordpress users, wpForo posts, wpFor
 ## Known issues
 
 1. It will not copy users passwords.
-2. In Flarum user profile Posts & Discussions number will be "0" despite all succesfully transfered data. It will be updated to a real number with user's first new post/discussion in Flarum
+2. In Flarum user profile Posts & Discussions number will be "0" despite all succesfully transfered data. It will be updated to a real number after user's first new post/discussion in Flarum
 
 ## Contributions Welcome
 Thanks to [all who have contributed on original PHPBB script](https://github.com/robrotheram/phpbb_to_flarum/graphs/contributors) :)
