@@ -1,4 +1,4 @@
-# phpBB_to_Flarum
+# wordpress_wpForo_to_Flarum
 Migration Script from Wordpress wpForo to Flarum
 
 Discussion https://discuss.flarum.org/d/1117-phpbb-migrate-script-updated-for-0-3-and-other-improvements
